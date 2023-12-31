@@ -1,0 +1,81 @@
+{
+    "basic":[
+        {
+            "Name":"Famitha Shepnam.U",
+            "email.Id":"shepnamummar786@gmail.com"
+        }
+    ]
+}
+
+
+
+
+{
+    "personal information":[
+        {
+            "Name": "Famitha Shepnam.U",
+            "Husband Name":"Sheik Abudhahir",
+            "Address":"2567,tvk st,hdyg,coimbatore",
+            "phone":"1234567890",
+        }
+    ]
+}
+
+
+
+
+
+  {
+  "education": [
+    {
+      "institution": "sree narayana guru college",
+      "area": "M.Sc computer science",
+      "studyType": "",
+      "startDate": "2020",
+      "endDate": "2022",
+      "gpa": "92.5",
+      "courses": 
+    }
+}
+{
+  "awards": [
+    {
+      "title": "BHARATHIAR UNIVERSITY I RANK HOLDER",
+      "date": "24.08.2023,I RANK IN M.Sc -COMPUTER SCIENCE",
+      "awarder": " award given by-BHARATHIAR UNIVERSITY",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Innu avlo periya aal aggalanga",
+      "publisher": "nanthanga",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""      
+    }
+  ],
+  "skills": [
+    {
+      "name": " 'Programming Languages'",
+      "level": "",
+      "keywords": [
+        "Keywords  'Java', 'C++', etc)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil",
+      "fluency": "tamil",
+    }
+  ],
+  "interests": [
+    {
+      "name": "A category of interests ('Sports')",
+      "keywords": [
+        "Keywords under this category ( 'Cricket', 'Football', 'Golf')"
+      ]
+    }
+  ]
+}
