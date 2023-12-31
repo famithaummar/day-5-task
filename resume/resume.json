@@ -2,42 +2,19 @@
     "basic":[
         {
             "Name":"Famitha Shepnam.U",
-            "email.Id":"shepnamummar786@gmail.com"
+            "emailId":"shepnamummar786@gmail.com"
         }
-    ]
-}
-
-
-
-
-{
-    "personal information":[
-        {
-            "Name": "Famitha Shepnam.U",
-            "Husband Name":"Sheik Abudhahir",
-            "Address":"2567,tvk st,hdyg,coimbatore",
-            "phone":"1234567890",
-        }
-    ]
-}
+    ],
 
 
 
 
 
-  {
-  "education": [
-    {
-      "institution": "sree narayana guru college",
-      "area": "M.Sc computer science",
-      "studyType": "",
-      "startDate": "2020",
-      "endDate": "2022",
-      "gpa": "92.5",
-      "courses": 
-    }
-}
-{
+
+
+
+ 
+
   "awards": [
     {
       "title": "BHARATHIAR UNIVERSITY I RANK HOLDER",
@@ -46,6 +23,7 @@
       "summary": ""
     }
   ],
+
   "publications": [
     {
       "name": "Innu avlo periya aal aggalanga",
@@ -55,6 +33,7 @@
       "summary": ""      
     }
   ],
+
   "skills": [
     {
       "name": " 'Programming Languages'",
@@ -64,10 +43,11 @@
       ]
     }
   ],
+
   "languages": [
     {
       "language": "Tamil",
-      "fluency": "tamil",
+      "fluency": "tamil"
     }
   ],
   "interests": [
